@@ -33,7 +33,7 @@ cd target/release
 
 ## Uninstall :(
 
-Built: Just remove the `~/Focus` directory, or the rust binary which you've pasted in one of the `$PATH` folders. If you're facing a problem, consider raising an issue.
+Built: Just remove the `~/Focus` directory, and the rust binary which you've pasted in one of the `$PATH` folders. If you're facing a problem, consider raising an issue.
 deb: Uninstall it via the original deb file.
 
 ## Support 
