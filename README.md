@@ -1,4 +1,7 @@
-# Focus
+# Deprecated
+This repo is unfortunately no longer being maintained. Writing shell scripts in rust is not a good idea
+
+## Focus
 Keep distractive apps at bay allowing you to focus!
 
 ---
